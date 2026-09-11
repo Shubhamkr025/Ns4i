@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Hacker coding animation" />
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif?utm_source=chatgpt.com" alt="Hacker coding animation" />
 
 ###
 
